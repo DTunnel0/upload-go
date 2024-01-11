@@ -9,7 +9,7 @@ Certifique-se de ter o Docker instalado no seu sistema antes de prosseguir.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/upload-go.git
+git clone https://github.com/DTunnel0/upload-go.git
 cd upload-go
 ```
 
